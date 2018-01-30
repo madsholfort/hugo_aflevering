@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-01-30T15:17:45+01:00
-draft: true
+draft: false
 ---
 
 ## JOSE MOURINHO
