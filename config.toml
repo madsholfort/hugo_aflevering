@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = https://github.com/madsholfort/hugo_aflevering.git
 languageCode = "en-us"
 title = "JOSE & TRUMP "
 theme = "minimal" 
